@@ -1,0 +1,27 @@
+ 
+body {
+    background-color:white;
+    width: 270mm; /* A4 width */
+    margin: 0 auto; /* Center the container horizontally */
+    padding-top: 20px;  /*Add padding as desired */
+    background-color: white; /* Set the background color for the content area */
+}
+#header-stuffs{
+    font-family: 'Roboto', sans-serif;
+    text-align:justify;
+    font-size: medium;
+
+}
+.light-gray-text {
+    color: lightgray;
+}
+.dashed-bar {
+    margin-bottom: 10px;
+    height: 1.5px; /* Set the height of the dashed bar */
+    background-image: repeating-linear-gradient(to right, lightgray, lightgray 4px, transparent 4px, transparent 8px);
+}
+#header-text{
+    margin:10px auto 10px auto;
+}
+  
+
